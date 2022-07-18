@@ -1,0 +1,38 @@
+.banimg {
+  height: 500px;
+}
+.bann h1 {
+  font-size: 70px;
+}
+/* body {
+  background-color: darkblue;
+} */
+header {
+  color: whitesmoke !important;
+  background-color: darkblue !important;
+}
+main {
+  background-color: whitesmoke !important;
+  /* margin: 70px 70px;
+  padding: 20px 20px; */
+  border: 1px solid white;
+  border-radius: 3px;
+}
+.card {
+  border: 15px solid whitesmoke;
+  border-radius: 10px;
+}
+.Football {
+  margin-top: 200px;
+}
+.Football img {
+  width: 35%;
+}
+.social img {
+  width: 40px;
+}
+@media (max-width: 576px) {
+  .banimg {
+    width: 400px;
+  }
+}
